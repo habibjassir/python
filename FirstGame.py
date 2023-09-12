@@ -72,4 +72,4 @@ while not game_over:
                     player_size, player_size))
 
     clock.tick(30)
-    pygame.display.update()
+    pygame.display.update() 
